@@ -3,4 +3,5 @@ hello set
 hello world
 123456
 asdgas
-mygit2
+mygita
+第二个冲突
