@@ -2,6 +2,7 @@ git init
 hello set
 hello world
 123456
+第四行
 asdgas
 第三行
 <<<<<<< HEAD
