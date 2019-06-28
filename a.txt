@@ -3,5 +3,7 @@ hello set
 hello world
 123456
 asdgas
+<<<<<<< HEAD
 mygita
 第二个冲突
+mygit2
