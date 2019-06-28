@@ -3,6 +3,7 @@ hello set
 hello world
 123456
 asdgas
+第三行
 <<<<<<< HEAD
 mygita
 第二个冲突
